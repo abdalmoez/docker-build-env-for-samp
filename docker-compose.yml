@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  samp:
+    build: .
+    image: i386/samp
